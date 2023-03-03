@@ -1,0 +1,10 @@
+{
+  "name": "your_project_name",
+  "version": "1.0.0",
+  "description": "A sample project to retrieve tweets and reply count",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.11",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies":
